@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/iron_sword" },
+    "entries": [
+      { "threshold": 500001, "model": { "type": "minecraft:model", "model": "minecraft:item/mm_knife_ice" } },
+      { "threshold": 500002, "model": { "type": "minecraft:model", "model": "minecraft:item/mm_knife_shadow" } },
+      { "threshold": 500003, "model": { "type": "minecraft:model", "model": "minecraft:item/mm_knife_honor" } }
+    ]
+  }
+}

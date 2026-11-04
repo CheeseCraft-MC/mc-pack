@@ -1,0 +1,34 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_coin.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_skull.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_clock.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_people.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_star.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_pin.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_check.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_cross.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_trophy.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_icon_magnifier.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_gui_bg_3row.png", "ascent": 13, "height": 168, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_gui_bg_4row.png", "ascent": 13, "height": 186, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_gui_bg_6row.png", "ascent": 13, "height": 222, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_holo_wins.png", "ascent": 22, "height": 24, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_holo_murders.png", "ascent": 22, "height": 24, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/mm_holo_gold.png", "ascent": 22, "height": 24, "chars": [""] },
+    {
+      "type": "space",
+      "advances": {
+        "": -1, "": 1,
+        "": -2, "": 2,
+        "": -4, "": 4,
+        "": -8, "": 8,
+        "": -16, "": 16,
+        "": -32, "": 32,
+        "": -64, "": 64,
+        "": -128, "": 128,
+        "": -256, "": 256
+      }
+    }
+  ]
+}
