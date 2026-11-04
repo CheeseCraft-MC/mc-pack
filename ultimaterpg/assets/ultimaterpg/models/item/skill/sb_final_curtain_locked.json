@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "ultimaterpg:item/skill/sb_final_curtain_locked"
+ }
+}

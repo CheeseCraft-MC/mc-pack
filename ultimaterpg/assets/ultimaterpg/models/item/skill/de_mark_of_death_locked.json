@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "ultimaterpg:item/skill/de_mark_of_death_locked"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/city_ghost",
+  "particle": "ultimaterpg:item/mob_model/city_ghost"
+ },
+ "elements": [
+  {
+   "from": [
+    5.5,
+    -14,
+    6.5
+   ],
+   "to": [
+    10.5,
+    -9,
+    10.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}

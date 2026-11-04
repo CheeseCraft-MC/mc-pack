@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ultimaterpg:infernal_scourge"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ultimaterpg:infernal_scourge"
+   }
+  ]
+ }
+}

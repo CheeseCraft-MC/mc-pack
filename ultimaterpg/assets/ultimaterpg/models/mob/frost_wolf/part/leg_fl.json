@@ -1,0 +1,156 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/frost_wolf",
+  "particle": "ultimaterpg:item/mob_model/frost_wolf"
+ },
+ "elements": [
+  {
+   "from": [
+    5.25,
+    -16,
+    2.0
+   ],
+   "to": [
+    7.25,
+    -7,
+    4.0
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    5.05,
+    -16,
+    1.8
+   ],
+   "to": [
+    7.45,
+    -15,
+    4.2
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}

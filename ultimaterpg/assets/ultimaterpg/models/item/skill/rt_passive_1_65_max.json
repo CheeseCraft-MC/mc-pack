@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "ultimaterpg:item/skill/rt_passive_1_65_max"
+ }
+}

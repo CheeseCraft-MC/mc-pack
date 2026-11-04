@@ -1,0 +1,82 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/frost_king",
+  "particle": "ultimaterpg:item/mob_model/frost_king"
+ },
+ "elements": [
+  {
+   "from": [
+    4,
+    -12,
+    10.2
+   ],
+   "to": [
+    12,
+    8,
+    11.2
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      4.25,
+      2.25,
+      5.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      4.25,
+      2.25,
+      5.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      4.25,
+      2.25,
+      5.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      4.25,
+      2.25,
+      5.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      4.25,
+      2.25,
+      5.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      4.25,
+      2.25,
+      5.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ultimaterpg:dragon_emperor"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ultimaterpg:dragon_emperor"
+   }
+  ]
+ }
+}

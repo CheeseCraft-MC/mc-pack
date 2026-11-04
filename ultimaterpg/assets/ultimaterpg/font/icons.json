@@ -1,0 +1,163 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/marker_new.png",
+   "ascent": 16,
+   "height": 20,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/marker_active.png",
+   "ascent": 16,
+   "height": 20,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/marker_ready.png",
+   "ascent": 16,
+   "height": 20,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/heart.png",
+   "ascent": 8,
+   "height": 9,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/mana.png",
+   "ascent": 8,
+   "height": 9,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/coin.png",
+   "ascent": 8,
+   "height": 9,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/shield.png",
+   "ascent": 8,
+   "height": 9,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/level.png",
+   "ascent": 8,
+   "height": 9,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/sword.png",
+   "ascent": 8,
+   "height": 9,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/xp_full.png",
+   "ascent": 7,
+   "height": 7,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/xp_empty.png",
+   "ascent": 7,
+   "height": 7,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/bar_hp_full.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/bar_mana_full.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/bar_shield_full.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/bar_empty.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/bar_left.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:font/bar_right.png",
+   "ascent": 7,
+   "height": 8,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "space",
+   "advances": {
+    "": -1
+   }
+  }
+ ]
+}

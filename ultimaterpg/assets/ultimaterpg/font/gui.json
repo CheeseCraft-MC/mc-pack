@@ -1,0 +1,2540 @@
+{
+ "providers": [
+  {
+   "type": "space",
+   "advances": {
+    "": -8,
+    "": -169
+   }
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_main.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_race_select.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_banner.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_members.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_1.png",
+   "ascent": 13,
+   "height": 132,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_2.png",
+   "ascent": 13,
+   "height": 150,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_3.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_4.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_5.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_6.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_rune_enchant.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_finder.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_stats.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_class_select.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quests.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quest_detail.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeons.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_detail.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_party.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_achievements.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_settings.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_screen.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_confirm.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_changelog.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_coming_soon_shop.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetics.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetic_list.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_board.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_trials.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_ranking.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_player_guild.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_profile.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_regions.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bestiary.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bosses.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_dungeons.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_depths.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_runes.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_races.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_help.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_keybinds.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_shop.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_equipment.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_map.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_main_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_race_select_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_banner_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_members_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_1_archer.png",
+   "ascent": 13,
+   "height": 132,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_2_archer.png",
+   "ascent": 13,
+   "height": 150,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_3_archer.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_4_archer.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_5_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_6_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_rune_enchant_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_finder_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_stats_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_class_select_archer.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quests_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quest_detail_archer.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeons_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_detail_archer.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_party_archer.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_achievements_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_settings_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_screen_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_confirm_archer.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_changelog_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_coming_soon_shop_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetics_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetic_list_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_board_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_trials_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_ranking_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_player_guild_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_profile_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_regions_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bestiary_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bosses_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_dungeons_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_depths_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_runes_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_races_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_help_archer.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_keybinds_archer.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_shop_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_equipment_archer.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_map_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_skills_archer.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_main_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_race_select_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_banner_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_members_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_1_assassin.png",
+   "ascent": 13,
+   "height": 132,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_2_assassin.png",
+   "ascent": 13,
+   "height": 150,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_3_assassin.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_4_assassin.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_5_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_6_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_rune_enchant_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_finder_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_stats_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_class_select_assassin.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quests_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quest_detail_assassin.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeons_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_detail_assassin.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_party_assassin.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_achievements_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_settings_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_screen_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_confirm_assassin.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_changelog_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_coming_soon_shop_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetics_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetic_list_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_board_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_trials_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_ranking_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_player_guild_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_profile_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_regions_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bestiary_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bosses_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_dungeons_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_depths_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_runes_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_races_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_help_assassin.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_keybinds_assassin.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_shop_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_equipment_assassin.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_map_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_skills_assassin.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_main_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_race_select_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_banner_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_members_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_1_guardian.png",
+   "ascent": 13,
+   "height": 132,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_2_guardian.png",
+   "ascent": 13,
+   "height": 150,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_3_guardian.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_4_guardian.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_5_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_6_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_rune_enchant_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_finder_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_stats_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_class_select_guardian.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quests_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quest_detail_guardian.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeons_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_detail_guardian.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_party_guardian.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_achievements_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_settings_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_screen_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_confirm_guardian.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_changelog_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_coming_soon_shop_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetics_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetic_list_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_board_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_trials_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_ranking_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_player_guild_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_profile_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_regions_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bestiary_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bosses_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_dungeons_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_depths_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_runes_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_races_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_help_guardian.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_keybinds_guardian.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_shop_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_equipment_guardian.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_map_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_skills_guardian.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_main_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_race_select_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_banner_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_members_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_1_mage.png",
+   "ascent": 13,
+   "height": 132,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_2_mage.png",
+   "ascent": 13,
+   "height": 150,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_3_mage.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_4_mage.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_5_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_6_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_rune_enchant_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_finder_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_stats_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_class_select_mage.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quests_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quest_detail_mage.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeons_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_detail_mage.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_party_mage.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_achievements_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_settings_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_screen_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_confirm_mage.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_changelog_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_coming_soon_shop_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetics_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetic_list_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_board_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_trials_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_ranking_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_player_guild_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_profile_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_regions_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bestiary_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bosses_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_dungeons_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_depths_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_runes_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_races_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_help_mage.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_keybinds_mage.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_shop_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_equipment_mage.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_map_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_skills_mage.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_main_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_race_select_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_banner_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_members_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_1_warrior.png",
+   "ascent": 13,
+   "height": 132,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_2_warrior.png",
+   "ascent": 13,
+   "height": 150,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_3_warrior.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_4_warrior.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_5_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_backpack_6_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_rune_enchant_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_finder_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_stats_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_class_select_warrior.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quests_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_quest_detail_warrior.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeons_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_dungeon_detail_warrior.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_party_warrior.png",
+   "ascent": 13,
+   "height": 186,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_achievements_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_settings_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_character_screen_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_confirm_warrior.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_changelog_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_coming_soon_shop_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetics_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_cosmetic_list_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_board_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_trials_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_guild_ranking_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_player_guild_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_profile_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_regions_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bestiary_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_bosses_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_dungeons_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_depths_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_runes_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_codex_races_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_help_warrior.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_keybinds_warrior.png",
+   "ascent": 13,
+   "height": 168,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_shop_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_equipment_warrior.png",
+   "ascent": 13,
+   "height": 204,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_map_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "ultimaterpg:gui/bg_skills_warrior.png",
+   "ascent": 13,
+   "height": 222,
+   "chars": [
+    ""
+   ]
+  }
+ ]
+}

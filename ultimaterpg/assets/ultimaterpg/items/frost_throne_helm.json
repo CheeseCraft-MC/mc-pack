@@ -1,0 +1,19 @@
+{
+ "model": {
+  "type": "minecraft:select",
+  "property": "minecraft:display_context",
+  "cases": [
+   {
+    "when": "head",
+    "model": {
+     "type": "minecraft:model",
+     "model": "ultimaterpg:item/frost_throne_helm_3d"
+    }
+   }
+  ],
+  "fallback": {
+   "type": "minecraft:model",
+   "model": "ultimaterpg:item/frost_throne_helm"
+  }
+ }
+}

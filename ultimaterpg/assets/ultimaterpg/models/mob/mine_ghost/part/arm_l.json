@@ -1,0 +1,307 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/mine_ghost",
+  "particle": "ultimaterpg:item/mob_model/mine_ghost"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    -6,
+    6
+   ],
+   "to": [
+    4,
+    4,
+    10
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    1.25,
+    -9,
+    7.6
+   ],
+   "to": [
+    1.75,
+    -6,
+    8.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   },
+   "light_emission": 6
+  },
+  {
+   "from": [
+    2.25,
+    -9,
+    7.6
+   ],
+   "to": [
+    2.75,
+    -6,
+    8.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   },
+   "light_emission": 6
+  },
+  {
+   "from": [
+    3.25,
+    -9,
+    7.6
+   ],
+   "to": [
+    3.75,
+    -6,
+    8.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   },
+   "light_emission": 6
+  }
+ ]
+}

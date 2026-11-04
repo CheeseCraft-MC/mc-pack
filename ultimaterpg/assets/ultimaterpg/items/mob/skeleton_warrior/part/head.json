@@ -1,0 +1,13 @@
+{
+ "model": {
+  "type": "minecraft:model",
+  "model": "ultimaterpg:mob/skeleton_warrior/part/head",
+  "tints": [
+   {
+    "type": "minecraft:custom_model_data",
+    "index": 0,
+    "default": 16777215
+   }
+  ]
+ }
+}

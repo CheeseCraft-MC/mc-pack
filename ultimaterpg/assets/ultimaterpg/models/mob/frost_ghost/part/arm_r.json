@@ -1,0 +1,307 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/frost_ghost",
+  "particle": "ultimaterpg:item/mob_model/frost_ghost"
+ },
+ "elements": [
+  {
+   "from": [
+    12,
+    -6,
+    6
+   ],
+   "to": [
+    15,
+    4,
+    10
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      2.25,
+      0.25,
+      3.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    12.25,
+    -9,
+    7.6
+   ],
+   "to": [
+    12.75,
+    -6,
+    8.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   },
+   "light_emission": 6
+  },
+  {
+   "from": [
+    13.25,
+    -9,
+    7.6
+   ],
+   "to": [
+    13.75,
+    -6,
+    8.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   },
+   "light_emission": 6
+  },
+  {
+   "from": [
+    14.25,
+    -9,
+    7.6
+   ],
+   "to": [
+    14.75,
+    -6,
+    8.4
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      8.25,
+      0.25,
+      9.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   },
+   "light_emission": 6
+  }
+ ]
+}

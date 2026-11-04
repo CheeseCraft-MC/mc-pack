@@ -1,0 +1,82 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/goblin_king",
+  "particle": "ultimaterpg:item/mob_model/goblin_king"
+ },
+ "elements": [
+  {
+   "from": [
+    1.0,
+    -14,
+    12.0
+   ],
+   "to": [
+    15.0,
+    2,
+    13.0
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      10.25,
+      2.25,
+      11.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      10.25,
+      2.25,
+      11.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      10.25,
+      2.25,
+      11.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      10.25,
+      2.25,
+      11.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      10.25,
+      2.25,
+      11.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      10.25,
+      2.25,
+      11.75,
+      3.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}

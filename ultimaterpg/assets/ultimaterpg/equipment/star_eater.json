@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ultimaterpg:star_eater"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ultimaterpg:star_eater"
+   }
+  ]
+ }
+}

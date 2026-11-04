@@ -1,0 +1,156 @@
+{
+ "textures": {
+  "0": "ultimaterpg:item/mob_model/forest_spider",
+  "particle": "ultimaterpg:item/mob_model/forest_spider"
+ },
+ "elements": [
+  {
+   "from": [
+    -0.7,
+    -6.575,
+    4.65
+   ],
+   "to": [
+    4.8,
+    -4.65,
+    5.6
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  },
+  {
+   "from": [
+    -5.2,
+    -8.8,
+    4.95
+   ],
+   "to": [
+    -0.7,
+    -5.925,
+    5.8
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "south": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "east": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "west": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "up": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    },
+    "down": {
+     "uv": [
+      0.25,
+      0.25,
+      1.75,
+      1.75
+     ],
+     "texture": "#0",
+     "tintindex": 0
+    }
+   }
+  }
+ ]
+}

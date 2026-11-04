@@ -1,0 +1,466 @@
+{
+ "mob.goblin.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/goblin/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.goblin.idle"
+ },
+ "mob.goblin.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/goblin/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.goblin.hurt"
+ },
+ "mob.goblin.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/goblin/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.goblin.death"
+ },
+ "mob.goblin.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/goblin/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.goblin.attack"
+ },
+ "mob.troll.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/troll/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.troll.idle"
+ },
+ "mob.troll.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/troll/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.troll.hurt"
+ },
+ "mob.troll.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/troll/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.troll.death"
+ },
+ "mob.troll.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/troll/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.troll.attack"
+ },
+ "mob.wolf.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wolf/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wolf.idle"
+ },
+ "mob.wolf.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wolf/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wolf.hurt"
+ },
+ "mob.wolf.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wolf/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wolf.death"
+ },
+ "mob.wolf.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wolf/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wolf.attack"
+ },
+ "mob.shadow_wolf.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/shadow_wolf/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.shadow_wolf.idle"
+ },
+ "mob.shadow_wolf.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/shadow_wolf/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.shadow_wolf.hurt"
+ },
+ "mob.shadow_wolf.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/shadow_wolf/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.shadow_wolf.death"
+ },
+ "mob.shadow_wolf.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/shadow_wolf/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.shadow_wolf.attack"
+ },
+ "mob.frost_wolf.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_wolf/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_wolf.idle"
+ },
+ "mob.frost_wolf.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_wolf/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_wolf.hurt"
+ },
+ "mob.frost_wolf.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_wolf/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_wolf.death"
+ },
+ "mob.frost_wolf.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_wolf/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_wolf.attack"
+ },
+ "mob.undead.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/undead/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.undead.idle"
+ },
+ "mob.undead.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/undead/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.undead.hurt"
+ },
+ "mob.undead.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/undead/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.undead.death"
+ },
+ "mob.undead.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/undead/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.undead.attack"
+ },
+ "mob.frost_undead.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_undead/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_undead.idle"
+ },
+ "mob.frost_undead.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_undead/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_undead.hurt"
+ },
+ "mob.frost_undead.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_undead/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_undead.death"
+ },
+ "mob.frost_undead.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/frost_undead/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.frost_undead.attack"
+ },
+ "mob.wraith.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wraith/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wraith.idle"
+ },
+ "mob.wraith.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wraith/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wraith.hurt"
+ },
+ "mob.wraith.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wraith/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wraith.death"
+ },
+ "mob.wraith.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/wraith/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.wraith.attack"
+ },
+ "mob.ice_wraith.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/ice_wraith/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.ice_wraith.idle"
+ },
+ "mob.ice_wraith.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/ice_wraith/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.ice_wraith.hurt"
+ },
+ "mob.ice_wraith.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/ice_wraith/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.ice_wraith.death"
+ },
+ "mob.ice_wraith.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/ice_wraith/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.ice_wraith.attack"
+ },
+ "mob.void_wraith.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_wraith/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_wraith.idle"
+ },
+ "mob.void_wraith.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_wraith/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_wraith.hurt"
+ },
+ "mob.void_wraith.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_wraith/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_wraith.death"
+ },
+ "mob.void_wraith.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_wraith/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_wraith.attack"
+ },
+ "mob.demon.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/demon/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.demon.idle"
+ },
+ "mob.demon.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/demon/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.demon.hurt"
+ },
+ "mob.demon.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/demon/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.demon.death"
+ },
+ "mob.demon.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/demon/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.demon.attack"
+ },
+ "mob.void_demon.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_demon/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_demon.idle"
+ },
+ "mob.void_demon.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_demon/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_demon.hurt"
+ },
+ "mob.void_demon.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_demon/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_demon.death"
+ },
+ "mob.void_demon.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/void_demon/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.void_demon.attack"
+ },
+ "mob.dragon.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/dragon/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.dragon.idle"
+ },
+ "mob.dragon.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/dragon/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.dragon.hurt"
+ },
+ "mob.dragon.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/dragon/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.dragon.death"
+ },
+ "mob.dragon.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/dragon/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.dragon.attack"
+ },
+ "mob.golem.idle": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/golem/idle"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.golem.idle"
+ },
+ "mob.golem.hurt": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/golem/hurt"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.golem.hurt"
+ },
+ "mob.golem.death": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/golem/death"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.golem.death"
+ },
+ "mob.golem.attack": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:mob/golem/attack"
+   }
+  ],
+  "subtitle": "subtitles.ultimaterpg.mob.golem.attack"
+ },
+ "music.guild_city": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:music/guild_city",
+    "stream": true
+   }
+  ]
+ },
+ "music.dwarf_city": {
+  "sounds": [
+   {
+    "name": "ultimaterpg:music/dwarf_city",
+    "stream": true
+   }
+  ]
+ }
+}

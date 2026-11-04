@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "ultimaterpg:item/aegis_of_dawn"
+ }
+}

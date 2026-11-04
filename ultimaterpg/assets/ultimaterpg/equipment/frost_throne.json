@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "ultimaterpg:frost_throne"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "ultimaterpg:frost_throne"
+   }
+  ]
+ }
+}

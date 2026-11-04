@@ -12,9 +12,11 @@ sich bei einer Pfadänderung nicht von selbst mitändert.
 | `murdermystery/` | Editierbare Quelldateien (PNGs, Modelle, `pack.mcmeta`) für die ZIP oben - siehe `murdermystery/README.md` |
 | `PvPCore-ResourcePack.zip` | [`CheeseCraft-plugin/modules/pvpcore`](https://github.com/CheeseCraft-MC/CheeseCraft-plugin/tree/Main/modules/pvpcore) - fest verlinkt in dessen `config.yml`, siehe dort `docs/RESOURCEPACK.md` |
 | `pvpcore/` | Editierbare Quelldateien (PNGs, Font-Icons, `pack.mcmeta`) für die ZIP oben - siehe `pvpcore/README.md` |
+| `UltimateRPG-ResourcePack.zip` | [`CheeseCraft-plugin/modules/ultimaterpg`](https://github.com/CheeseCraft-MC/CheeseCraft-plugin/tree/Main/modules/ultimaterpg) - fest verlinkt in dessen `config.yml` (Pflicht-Pack), siehe dort `docs/RESOURCEPACK.md` |
+| `ultimaterpg/` | **Generierte** Quelldateien (Python-Toolchain unter `ultimaterpg/tools/`, keine Hand-PNGs) für die ZIP oben - siehe `ultimaterpg/README.md`, braucht lesenden Zugriff auf `CheeseCraft-plugin/modules/ultimaterpg` zum Neubauen |
 
-Beide Plugin-Module haben **keinen** eigenen `resourcepack/`-Ordner in `CheeseCraft-plugin` -
-Quelle und ZIP leben ausschließlich hier.
+Alle drei Plugin-Module haben **keinen** eigenen `resourcepack/`-Ordner in `CheeseCraft-plugin`
+- Quelle und ZIP leben ausschließlich hier.
 
 ## Neue ZIP hochladen
 
