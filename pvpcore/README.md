@@ -2,8 +2,8 @@
 
 Editierbare Arbeitskopie für `../PvPCore-ResourcePack.zip`. Was die einzelnen Texturen genau
 bewirken und wie das Plugin das Pack einbindet, steht in
-[`docs/RESOURCEPACK.md`](https://github.com/emilwernerpfeifer-cmd/Mc-server-plugin/blob/Main/modules/pvpcore/docs/RESOURCEPACK.md)
-im Hauptrepo `Mc-server-plugin` - diese Datei hier ist nur die Bau-Anleitung.
+[`docs/RESOURCEPACK.md`](https://github.com/CheeseCraft-MC/CheeseCraft-plugin/blob/Main/modules/pvpcore/docs/RESOURCEPACK.md)
+im Hauptrepo `CheeseCraft-plugin` - diese Datei hier ist nur die Bau-Anleitung.
 
 ## Eigene Grafiken ergänzen
 
@@ -19,6 +19,6 @@ sha1sum ../PvPCore-ResourcePack.zip
 
 Danach beides committen und pushen (die neue ZIP **und** die geänderten Quelldateien hier).
 Der neue `sha1`-Wert muss anschließend in
-`modules/pvpcore/src/main/resources/config.yml` (im `Mc-server-plugin`-Repo, Schlüssel
+`modules/pvpcore/src/main/resources/config.yml` (im `CheeseCraft-plugin`-Repo, Schlüssel
 `ressourcenpaket.sha1`) **und** in `ServerLook.DEFAULT_SHA1` eingetragen werden - sonst lehnen
 Minecraft-Clients das Pack als "beschädigt" ab.

@@ -8,12 +8,12 @@ sich bei einer Pfadänderung nicht von selbst mitändert.
 
 | Datei/Ordner | Gehört zu |
 |---|---|
-| `MurderMystery-ResourcePack.zip` | [`Mc-server-plugin/modules/murdermystery`](https://github.com/emilwernerpfeifer-cmd/Mc-server-plugin/tree/Main/modules/murdermystery) - fest verlinkt in dessen `config.yml` |
+| `MurderMystery-ResourcePack.zip` | [`CheeseCraft-plugin/modules/murdermystery`](https://github.com/CheeseCraft-MC/CheeseCraft-plugin/tree/Main/modules/murdermystery) - fest verlinkt in dessen `config.yml` |
 | `murdermystery/` | Editierbare Quelldateien (PNGs, Modelle, `pack.mcmeta`) für die ZIP oben - siehe `murdermystery/README.md` |
-| `PvPCore-ResourcePack.zip` | [`Mc-server-plugin/modules/pvpcore`](https://github.com/emilwernerpfeifer-cmd/Mc-server-plugin/tree/Main/modules/pvpcore) - fest verlinkt in dessen `config.yml`, siehe dort `docs/RESOURCEPACK.md` |
+| `PvPCore-ResourcePack.zip` | [`CheeseCraft-plugin/modules/pvpcore`](https://github.com/CheeseCraft-MC/CheeseCraft-plugin/tree/Main/modules/pvpcore) - fest verlinkt in dessen `config.yml`, siehe dort `docs/RESOURCEPACK.md` |
 | `pvpcore/` | Editierbare Quelldateien (PNGs, Font-Icons, `pack.mcmeta`) für die ZIP oben - siehe `pvpcore/README.md` |
 
-Beide Plugin-Module haben **keinen** eigenen `resourcepack/`-Ordner in `Mc-server-plugin` -
+Beide Plugin-Module haben **keinen** eigenen `resourcepack/`-Ordner in `CheeseCraft-plugin` -
 Quelle und ZIP leben ausschließlich hier.
 
 ## Neue ZIP hochladen
