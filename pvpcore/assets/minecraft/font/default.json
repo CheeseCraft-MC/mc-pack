@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pvpcore:font/logo_big.png",
+      "ascent": 26,
+      "height": 36,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pvpcore:font/logo_small.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pvpcore:font/line.png",
+      "ascent": 4,
+      "height": 5,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

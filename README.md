@@ -11,6 +11,7 @@ sich bei einer Pfadänderung nicht von selbst mitändert.
 | `MurderMystery-ResourcePack.zip` | [`Mc-server-plugin/modules/murdermystery`](https://github.com/emilwernerpfeifer-cmd/Mc-server-plugin/tree/Main/modules/murdermystery) - fest verlinkt in dessen `config.yml` |
 | `murdermystery/` | Editierbare Quelldateien (PNGs, Modelle, `pack.mcmeta`) für die ZIP oben - siehe `murdermystery/README.md` |
 | `PvPCore-ResourcePack.zip` | [`Mc-server-plugin/modules/pvpcore`](https://github.com/emilwernerpfeifer-cmd/Mc-server-plugin/tree/Main/modules/pvpcore) - fest verlinkt in dessen `config.yml`, siehe dort `docs/RESOURCEPACK.md` |
+| `pvpcore/` | Editierbare Quelldateien (PNGs, Font-Icons, `pack.mcmeta`) für die ZIP oben - siehe `pvpcore/README.md` |
 
 Beide Plugin-Module haben **keinen** eigenen `resourcepack/`-Ordner in `Mc-server-plugin` -
 Quelle und ZIP leben ausschließlich hier.
